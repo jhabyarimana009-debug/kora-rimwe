@@ -1,0 +1,6 @@
+{
+  "name": "Kora Rimwe",
+  "description": "A free Rwanda Driving License Theory Learning and Practice Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

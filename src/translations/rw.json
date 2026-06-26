@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Ahabanza",
+    "lessons": "Ayamasomo",
+    "roadSigns": "Ibimenyetso by'Umuhanda",
+    "about": "Turi Bande",
+    "contact": "Twandikire",
+    "login": "Injira",
+    "register": "Kwizandikisha",
+    "profile": "Imyirondoro",
+    "dashboard": "Ahabanza",
+    "logout": "Sohoka",
+    "language": "Ururimi"
+  },
+  "hero": {
+    "title": "KORA RIMWE v2",
+    "subtitle": "Urubuga rwa mbere rwizewe kandi rw'ubuntu rwo kwiga amategeko y'umuhanda n'ibimenyetso mu Rwanda.",
+    "cta": "Tangira Kwiga",
+    "secondaryCta": "Isuzume nonaha"
+  },
+  "features": {
+    "header": "Ibyo Tuguha",
+    "subheader": "Uburyo bworoshye bwo gutsindira uruhushya rwawe rwa burundu cyangwa urw'agateganyo.",
+    "lessonsTitle": "Amasomo Ahagije",
+    "lessonsDesc": "Amasomo yose ateguye neza akurikiza integanyanyigisho yemewe mu Rwanda.",
+    "practiceTitle": "Ibizamini by'Isuzuma",
+    "practiceDesc": "Ibizamini byinshi by'imyitozo bigufasha kwitegura neza no gutsinda neza.",
+    "roadSignsTitle": "Ibimenyetso by'Umuhanda",
+    "roadSignsDesc": "Sobanukirwa buri kimenyetso cyose cy'umuhanda n'icyo gisobanura."
+  },
+  "learningBenefits": {
+    "title": "Kuki ukwiye kwigira kuri KORA RIMWE?",
+    "benefit1Title": "Kubera ko ari Ubuntu",
+    "benefit1Desc": "Nta kiguzi na gito usabwa ngo ubone amasomo n'imyitozo.",
+    "benefit2Title": "Byoroshye Kubikoresha",
+    "benefit2Desc": "Urukurikirane rw'amasomo n'ibizamini rutegeye buri wese haba kuri terefoni cyangwa mudasobwa.",
+    "benefit3Title": "Amakuru Nyayo",
+    "benefit3Desc": "Ibibazo byose n'amasomo bihuye neza n'ibibazwa mu kizamini nyacyo cy'amategeko y'umuhanda."
+  },
+  "faq": {
+    "title": "Ibibazo Bikunze Kubazwa",
+    "q1": "Ese uru rubuga ni ubuntu koko?",
+    "a1": "Yego, Kora Rimwe ni urubuga rw'ubuntu 100% rwashyiriweho gufasha Abanyarwanda kwiga amategeko y'umuhanda mu buryo bworoshye.",
+    "q2": "Ese nshobora kwigira kuri terefoni yanjye?",
+    "a2": "Yego rwose, uru rubuga rukoze mu buryo bugezweho buhuzwa neza n'uburyo terefoni zose zikora.",
+    "q3": "Ntabwo nzi Kinyarwanda, ese mwashyizeho izindi ndimi?",
+    "a3": "Yego, usibye Ikinyarwanda, urubuga rwacu ruraboneka kandi mu Cyongereza (English) no mu Gifaransa (Français)."
+  },
+  "contact": {
+    "title": "Twandikire",
+    "subtitle": "Ufite ikibazo cyangwa igitekerezo? Nyabuna twandikire twagufasha.",
+    "name": "Amazina yawe",
+    "email": "Imeri yawe",
+    "message": "Ubutumwa bwawe",
+    "send": "Ohereza Ubutumwa",
+    "success": "Ubutumwa bwawe bwoherejwe neza! Tuzagusubiza vuba.",
+    "sending": "Irikubyohereza..."
+  },
+  "login": {
+    "title": "Injira muri Kora Rimwe",
+    "email": "Imeri (Email)",
+    "password": "Ijambo ry'ibanga",
+    "button": "Injira",
+    "googleButton": "Injira na Google",
+    "registerPrompt": "Ntabwo uriyandikisha?",
+    "registerLink": "Kwizandikisha nonaha"
+  },
+  "register": {
+    "title": "Fungura Konti Nshya",
+    "name": "Amazina Yombi",
+    "email": "Imeri (Email)",
+    "password": "Ijambo ry'ibanga",
+    "button": "Yandikishe",
+    "googleButton": "Yandikishe na Google",
+    "loginPrompt": "Usanzwe ufite konti?",
+    "loginLink": "Injira hano",
+    "verificationSent": "Imeri yo kwemeza yoherejwe kuri imeri yawe. Nyabuna yemeze mbere yo kwinjira.",
+    "errorMismatch": "Amagambo y'ibanga ntabwo ahuye."
+  },
+  "dashboard": {
+    "title": "Ibiro Bikuru",
+    "welcome": "Murakaza neza, ",
+    "verifyEmailPrompt": "Nyabuna banza wemeze imeri yawe unyuze ku kimenyetso cyoherejwe kuri imeri yawe kugira ngo ukoreshe urubuga ku buryo bwuzuye.",
+    "verifyCheck": "Ese umaze kuyemeza? Kanda hano ngo ugenzure.",
+    "lessonsInProgress": "Amasomo Yitabiwe",
+    "averageScore": "Impuzandengo y'Amanota",
+    "examsTaken": "Ibizamini Wakoze",
+    "startPractice": "Tangira Imyitozo",
+    "roadSignsPreview": "Reba Ibimenyetso",
+    "recentExams": "Ibizamini Biheruka",
+    "noExamsYet": "Nta kizamini wari wakora na kimwe. Kanda hejuru ngo utangire!",
+    "score": "Amanota",
+    "date": "Itariki"
+  },
+  "profile": {
+    "title": "Imyirondoro Yanjye",
+    "name": "Amazina",
+    "email": "Imeri",
+    "role": "Urwego",
+    "createdAt": "Yafunguwe",
+    "verified": "Yemejwe",
+    "notVerified": "Ntiyemejwe",
+    "updateSuccess": "Imyirondoro yahinduwe neza!"
+  },
+  "about": {
+    "title": "Turi Bande?",
+    "p1": "KORA RIMWE ni urubuga rugamije korohereza Abanyarwanda n'abandi barutuye kwiga no gutsindira uruhushya rwo gutwara ibinyabiziga mu buryo bworoshye kandi bwa kinyamwuga.",
+    "p2": "Intego yacu ni ugushyiraho amashusho, amasomo, n'ibizamini by'imyitozo bisobanutse kandi by'ubuntu kugira ngo umutekano wo mu muhanda ube ntamakemwa.",
+    "team": "Ikipe Yacu"
+  }
+}

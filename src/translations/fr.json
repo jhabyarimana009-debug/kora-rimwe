@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "lessons": "Cours",
+    "roadSigns": "Panneaux routiers",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "profile": "Profil",
+    "dashboard": "Tableau de bord",
+    "logout": "Déconnexion",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "KORA RIMWE v2",
+    "subtitle": "La plateforme gratuite et de référence pour l'apprentissage du code de la route au Rwanda.",
+    "cta": "Commencer l'apprentissage",
+    "secondaryCta": "Examen blanc"
+  },
+  "features": {
+    "header": "Notre Offre",
+    "subheader": "Tout ce dont vous avez besoin pour réussir facilement votre examen théorique du premier coup.",
+    "lessonsTitle": "Cours complets",
+    "lessonsDesc": "Des cours détaillés et interactifs structurés exactement selon le programme officiel au Rwanda.",
+    "practiceTitle": "Examens Blancs",
+    "practiceDesc": "Des tests d'entraînement interactifs avec suivi dynamique des scores pour simuler l'examen réel.",
+    "roadSignsTitle": "Panneaux Routiers",
+    "roadSignsDesc": "Un catalogue complet de la signalisation routière avec guides graphiques haute définition."
+  },
+  "learningBenefits": {
+    "title": "Pourquoi apprendre avec KORA RIMWE ?",
+    "benefit1Title": "Totalement Gratuit",
+    "benefit1Desc": "Pas de frais cachés ni d'abonnements. Profitez d'un accès illimité à l'ensemble du contenu.",
+    "benefit2Title": "Design Adaptatif",
+    "benefit2Desc": "Étudiez partout et à tout moment depuis votre smartphone, tablette ou ordinateur.",
+    "benefit3Title": "Matériel Officiel",
+    "benefit3Desc": "Nos questions d'entraînement simulent parfaitement les examens réels de la Police Nationale du Rwanda."
+  },
+  "faq": {
+    "title": "Foire Aux Questions",
+    "q1": "Kora Rimwe est-il vraiment gratuit ?",
+    "a1": "Oui, Kora Rimwe est entièrement gratuit pour aider tout le monde à obtenir facilement son permis de conduire.",
+    "q2": "Puis-je étudier sur mon téléphone ?",
+    "a2": "Absolument ! La plateforme est optimisée pour tous les types d'écrans mobiles.",
+    "q3": "Quelles sont les langues disponibles ?",
+    "a3": "Nous prenons en charge le Kinyarwanda, l'Anglais (English) et le Français."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question ou un commentaire ? Contactez-nous et nous vous répondrons dès que possible.",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "message": "Votre message",
+    "send": "Envoyer le message",
+    "success": "Votre message a été envoyé avec succès ! Nous vous répondrons très bientôt.",
+    "sending": "Envoi en cours..."
+  },
+  "login": {
+    "title": "Connexion à Kora Rimwe",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "button": "Se connecter",
+    "googleButton": "Se connecter avec Google",
+    "registerPrompt": "Pas encore de compte ?",
+    "registerLink": "Inscrivez-vous ici"
+  },
+  "register": {
+    "title": "Créer un compte",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "button": "S'inscrire",
+    "googleButton": "S'inscrire avec Google",
+    "loginPrompt": "Vous avez déjà un compte ?",
+    "loginLink": "Se connecter ici",
+    "verificationSent": "Un e-mail de validation a été envoyé. Veuillez vérifier votre adresse e-mail avant de vous connecter.",
+    "errorMismatch": "Les mots de passe ne correspondent pas."
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue, ",
+    "verifyEmailPrompt": "Veuillez valider votre adresse e-mail via le lien envoyé pour débloquer toutes les fonctionnalités.",
+    "verifyCheck": "Déjà validé ? Cliquez ici pour actualiser.",
+    "lessonsInProgress": "Cours étudiés",
+    "averageScore": "Score moyen",
+    "examsTaken": "Examens blancs réussis",
+    "startPractice": "Démarrer un examen blanc",
+    "roadSignsPreview": "Parcourir les panneaux",
+    "recentExams": "Examens récents",
+    "noExamsYet": "Vous n'avez pas encore passé d'examen blanc. Commencez-en un ci-dessus !",
+    "score": "Score",
+    "date": "Date"
+  },
+  "profile": {
+    "title": "Mon Profil",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "role": "Rôle",
+    "createdAt": "Inscrit le",
+    "verified": "Vérifié",
+    "notVerified": "Non vérifié",
+    "updateSuccess": "Profil mis à jour avec succès !"
+  },
+  "about": {
+    "title": "À propos de KORA RIMWE",
+    "p1": "KORA RIMWE est une initiative éducative visant à fournir du matériel d'apprentissage et de préparation de haute qualité pour le permis de conduire au Rwanda.",
+    "p2": "Notre mission est d'améliorer la sécurité routière dans tout le pays en fournissant des ressources éducatives gratuites et claires.",
+    "team": "Notre équipe"
+  }
+}
